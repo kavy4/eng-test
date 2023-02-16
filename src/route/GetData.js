@@ -231,13 +231,13 @@ const appList = [
 
                             {
                                 type: 'user-input',
-                                title: 'There is a ... once a week for recyclable items. (collect)',
+                                title: 'There is a ... (collect) once a week for recyclable items.',
                                 correct: 'collection'
                             },
 
                             {
                                 type: 'user-input',
-                                title: 'The protestors made a big ... outside the town hall. (disturb)',
+                                title: 'The protestors made a big ... (disturb) outside the town hall.',
                                 correct: 'disturbance'
                             }
                         ]
